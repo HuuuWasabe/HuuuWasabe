@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 I am **Nil Jedidiah G. San Gabriel**<br>🏫 Currently Studying at The `Technological Institute of the Philippines`<br>🖥️ Taking Computer Engineering as my Program<br> 📚 Learning Data Science w/ Machine Learning and Deep Learning
+🎮 I am **Nil Jedidiah G. San Gabriel** aka **HuuuWasabe**<br>🏫 Currently Studying at The `Technological Institute of the Philippines`<br>🖥️ Taking Computer Engineering as my Program<br> 📚 Learning Data Science w/ Machine Learning and Deep Learning
 
 
 ## 🌐 Socials:
