@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 I am **Nil San Gabriel** aka **HuuuWasabe**<br>🏫 A Computer Engineer graduate from The `Technological Institute of the Philippines`<br>🖥️ 📚 Specilizing in Data Science w/ Machine Learning and Deep Learning
+🎮 I am **Nil San Gabriel** (**HuuuWasabe**)<br>🏫 A Computer Engineer graduate from The `Technological Institute of the Philippines`<br>📚 Specilizing in Data Science w/ Machine Learning and Deep Learning<br>🖥️ Aspiring Software Engineer
 
 
 ## 🌐 Socials:
