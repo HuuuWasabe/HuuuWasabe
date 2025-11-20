@@ -53,8 +53,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HuuuWasabe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
-    Visitor Count:
-    <br><img width="200" src="https://profile-counter.glitch.me/{HuuuWasabe}/count.svg" alt="Visitor Count">
-</p>
