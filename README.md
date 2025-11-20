@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Who am I?:
 🎮 I am **Nil San Gabriel** (**HuuuWasabe**)<br>📚 Specilizing in Data Science w/ Machine Learning and Deep Learning<br>🖥️ Creating Software here and there
 
 
